@@ -1,0 +1,7 @@
+Name: Phil Collin
+TIN: 100000006
+Status: MARRIED_FILING_JOINTLY
+Income: 1.5E7
+
+Receipts:
+

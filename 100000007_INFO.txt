@@ -1,0 +1,7 @@
+Name: Alexis Zorbas
+TIN: 100000007
+Status: SINGLE
+Income: 150000.0
+
+Receipts:
+

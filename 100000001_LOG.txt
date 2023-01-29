@@ -1,0 +1,12 @@
+Name: Adam Smith
+TIN: 100000001
+Income: 32570.0
+Basic Tax: 1779.5549
+Tax Decrease: -0.3
+Total Tax: 1245.6885
+TotalReceiptsGathered: 30600.01
+ENTERTAINMENT: 0.0
+BASIC: 100.0
+TRAVEL: 2000.01
+HEALTH: 3500.0
+OTHER: 25000.0

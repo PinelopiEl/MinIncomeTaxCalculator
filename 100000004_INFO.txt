@@ -1,0 +1,47 @@
+Name: Harry Potter
+TIN: 100000004
+Status: MARRIED_FILING_SEPARATELY
+Income: 4250070.0
+
+Receipts:
+
+ReceiptID: 800
+Date: 2021-12-12
+Kind: HEALTH
+Amount: 33500.0
+Company: MDA
+Country: USA
+City: Atlanta
+Street: Baker
+Number: 25A
+
+ReceiptID: 200
+Date: 2021-01-01
+Kind: TRAVEL
+Amount: 13000.0
+Company: Apple
+Country: USA
+City: New York
+Street: Jamaica
+Number: 25
+
+ReceiptID: 100
+Date: 2022-12-12
+Kind: OTHER
+Amount: 235000.0
+Company: IBM
+Country: USA
+City: Minnesota
+Street: 45 Blv
+Number: 22
+
+ReceiptID: 700
+Date: 1922-11-15
+Kind: BASIC
+Amount: 1300.0
+Company: FreeSOFT Ltd
+Country: Greece
+City: Athens
+Street: Acharnes
+Number: 22A
+

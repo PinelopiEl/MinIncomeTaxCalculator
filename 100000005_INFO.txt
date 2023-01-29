@@ -1,0 +1,47 @@
+Name: Aristoteles Onasis
+TIN: 100000005
+Status: MARRIED_FILING_JOINTLY
+Income: 4.5E7
+
+Receipts:
+
+ReceiptID: 8000
+Date: 2021-12-12
+Kind: HEALTH
+Amount: 300500.0
+Company: MDA
+Country: USA
+City: Atlanta
+Street: Baker
+Number: 25A
+
+ReceiptID: 1000
+Date: 2022-12-12
+Kind: OTHER
+Amount: 250000.0
+Company: IBM
+Country: USA
+City: Minnesota
+Street: 45 Blv
+Number: 22
+
+ReceiptID: 20
+Date: 2021-01-01
+Kind: TRAVEL
+Amount: 10000.0
+Company: Apple
+Country: USA
+City: New York
+Street: Jamaica
+Number: 25
+
+ReceiptID: 700
+Date: 1922-11-15
+Kind: BASIC
+Amount: 1000.0
+Company: FreeSOFT Ltd
+Country: Greece
+City: Athens
+Street: Acharnes
+Number: 22A
+

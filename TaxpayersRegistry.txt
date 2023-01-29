@@ -1,0 +1,8 @@
+100000001 Adams Smith                   SINGLE
+100000002 Albert Einstein               HEAD_OF_HOUSEHOLD
+100000003 Nicola Tesla                  SINGLE
+100000004 Harry Potter                  MARRIED_FILING_SEPARATELY
+100000005 Aristoteles Onasis            MARRIED_FILING_JOINTLY            
+100000006 Phil Collin                   MARRIED_FILING_JOINTLY
+100000007 Alexis Zorbas                 SINGLE     
+130456094 Alexander the Great           MARRIED_FILING_JOINTLY      

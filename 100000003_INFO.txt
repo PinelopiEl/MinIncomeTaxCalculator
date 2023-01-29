@@ -1,0 +1,47 @@
+Name: Nicola Tesla
+TIN: 100000003
+Status: SINGLE
+Income: 42570.0
+
+Receipts:
+
+ReceiptID: 8
+Date: 2021-12-12
+Kind: HEALTH
+Amount: 3500.0
+Company: MDA
+Country: USA
+City: Atlanta
+Street: Baker
+Number: 25A
+
+ReceiptID: 1
+Date: 2021-11-11
+Kind: BASIC
+Amount: 1000.01
+Company: IBM
+Country: Greece
+City: Athens
+Street: My Street
+Number: 12A
+
+ReceiptID: 2
+Date: 2021-01-01
+Kind: TRAVEL
+Amount: 1000.0
+Company: Apple
+Country: USA
+City: New York
+Street: Jamaica
+Number: 25
+
+ReceiptID: 7
+Date: 1922-11-15
+Kind: BASIC
+Amount: 100.0
+Company: FreeSOFT Ltd
+Country: Greece
+City: Athens
+Street: Acharnes
+Number: 22A
+

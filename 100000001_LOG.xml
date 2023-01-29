@@ -1,0 +1,12 @@
+<Name> Adam Smith </Name>
+<TIN> 100000001 </AFM>
+<Income> 32570.0 </Income>
+<BasicTax> 1779.5549 </BasicTax>
+<TaxDecrease> 1245.6885 </TaxDecrease>
+<TotalTax> 1245.6885 </TotalTax>
+<Receipts> 30600.01 </Receipts>
+<ENTERTAINMENT> 0.0 </ENTERTAINMENT>
+<BASIC> 100.0 </BASIC>
+<TRAVEL> 2000.01 </TRAVEL>
+<HEALTH> 3500.0 </HEALTH>
+<OTHER> 25000.0 </OTHER>

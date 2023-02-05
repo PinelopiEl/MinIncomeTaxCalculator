@@ -1,3 +1,0 @@
-https://github.com/PinelopiEl/MinIncomeTaxCalculatorDEMO
-
-Το refactored project βρίσκεται στο MinIncomeTaxCalculator.zip
